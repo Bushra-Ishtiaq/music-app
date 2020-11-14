@@ -4,14 +4,14 @@ import Player from './components/Player';
 function App() {
   const [songs] = useState([
     {
-      title: "Forget me too ft. Halsey",
-      artist: "Machine Gun Kelly",
+      title: "Cheap Thrills feat. Sean Paul",
+      artist: "Sia",
       img_src: "./images/song-1.jpg",
       src: "./music/on-n-on.mp3"
     },
     {
-      title: "Song 2",
-      artist: "Artist 2",
+      title: "Beleiver",
+      artist: "Imagine Dragons",
       img_src: "./images/song-2.jpg",
       src: "./music/somebody-new.mp3"
     },
